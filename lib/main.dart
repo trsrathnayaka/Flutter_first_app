@@ -69,7 +69,7 @@ class _HomePageState extends State<HomePage> {
               const SizedBox(height: 8),
               Text("$answer",
                   style: const TextStyle(
-                      fontSize: 20, fontWeight: FontWeight.bold)),
+                      fontSize: 19, fontWeight: FontWeight.bold)),
             ],
           )),
         ));
